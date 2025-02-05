@@ -30,7 +30,6 @@ def upperlower2(text):
     return mystr
     
 print(upperlower2(string))
-=================================================
 
 def upperlower3(text):
     isupperiteration = True
