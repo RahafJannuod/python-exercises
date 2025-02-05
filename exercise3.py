@@ -13,7 +13,7 @@ def upperlower(text):
     return mystr
     
 print(upperlower(string))
-===========================================
+
 
 def upperlower2(text):
     isupperiteration = True
